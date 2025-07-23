@@ -5,7 +5,7 @@
 
 ### Setup the application in localhost
 - Clone the repository
-  `$ git clone https://github.com/Vivek3927/ruby_string_calculator.git`
+  `$ git clone https://github.com/Vivek3927/tdd_assessment.git`
 - Open terminal and Go to application directory
   `$ cd ruby_string_calculator`
 - Run bundle install
