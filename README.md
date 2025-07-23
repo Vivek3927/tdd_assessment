@@ -7,7 +7,7 @@
 - Clone the repository
   `$ git clone https://github.com/Vivek3927/tdd_assessment.git`
 - Open terminal and Go to application directory
-  `$ cd ruby_string_calculator`
+  `$ cd tdd_assessment`
 - Run bundle install
   `$ bundle install`
 
